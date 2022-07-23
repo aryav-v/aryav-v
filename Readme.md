@@ -25,13 +25,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aryav's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aryav-v&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-<!--START_SECTION:waka-->
-
-```text
-Java   4 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
 
  
