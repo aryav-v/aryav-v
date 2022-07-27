@@ -7,7 +7,7 @@
 
 - I'm a freshman looking out for open-source contribution opportunities.
 
-- I'm currently learning <a href="https://go.dev/">Go</a> , <a href="https://www.java.com/en/"> Java </a> & FrontEnd Development.
+- I'm currently learning <a href="https://www.python.org/">Python</a> , <a href="https://www.javascript.com/"> JavaScript </a> & FrontEnd Development.
 <br><br>
 
 <p align="center"><a href="https://twitter.com/aryav_v"><img height="30px" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:aryav.1729@gmail.com"><img height="30px" width="30px" src="https://img.icons8.com/fluency/344/secure-mail.png" /></a>
