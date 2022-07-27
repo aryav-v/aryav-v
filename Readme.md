@@ -1,10 +1,11 @@
+
 # Hey , I am Aryav . Welcome to my GitHub ✨
 
 <br>
 <p>
 <img align="right" width="450px" alt="Aryav's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=aryav-v&show_icons=true&count_private=true&theme=gotham" />
 
-- I'm a freshman looking out for open-source contribution opportunities.
+- I'm a developer 🚀 , who's contributing and actively looking forward to collaboration & contribution opportunities.
 
 - I'm currently learning <a href="https://www.python.org/">Python</a> , <a href="https://www.javascript.com/"> JavaScript </a> & FrontEnd Development.
 <br><br>
