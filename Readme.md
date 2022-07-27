@@ -1,7 +1,6 @@
+# Hey , I am Aryav . Welcome to my GitHub ✨
 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3000&lines=Hey+%2C+I+am+Aryav;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
-
+<br>
 <p>
 <img align="right" width="450px" alt="Aryav's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=aryav-v&show_icons=true&count_private=true&theme=gotham" />
 
