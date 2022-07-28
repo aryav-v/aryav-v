@@ -1,5 +1,7 @@
 
-# Hey , I am Aryav . Welcome to my GitHub ✨
+
+
+# Hey , I am Aryav. Welcome to my GitHub ✨
 
 <br>
 <p>
@@ -15,8 +17,7 @@
 
 </p>
 </p>
-<br>
-
+ 
 <br>
 <br>
 
@@ -24,8 +25,7 @@
 
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aryav's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=aryav-v&theme=react-dark&hide_border=true" /></a>
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=aryav-v&theme=react-dark&hide_border=true&area=true)
 
 
  
