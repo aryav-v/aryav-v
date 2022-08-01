@@ -13,19 +13,12 @@
 
 -  Also , I write Dev-Blogs at : <a href="aryav.hashnode.dev">Dev X Aryav </a>
 
-- You can connect with me at : <a href="https://twitter.com/aryav_v">Twitter</a> &nbsp; & &nbsp; <a href="mailto:aryav.1729@gmail.com"><a href="https://www.linkedin.com/in/aryav-chaturvedi-69b994229/">LinkedIn</a>
+<hr>
+
+- *You can connect with me at : <a href="https://twitter.com/aryav_v">Twitter</a> &nbsp; & &nbsp; <a href="mailto:aryav.1729@gmail.com"><a href="https://www.linkedin.com/in/aryav-chaturvedi-69b994229/">LinkedIn</a>*
 
 </p>
 </p>
  
-<br>
-<br>
-
- 
-
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=aryav-v&theme=chartreuse-dark&hide_border=true&area=true)
-
 
  
