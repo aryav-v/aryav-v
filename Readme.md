@@ -15,7 +15,7 @@
 
 <hr>
 
-- *You can connect with me at : <a href="https://twitter.com/aryav_v">Twitter</a> &nbsp; & &nbsp; <a href="mailto:aryav.1729@gmail.com"><a href="https://www.linkedin.com/in/aryav-chaturvedi-69b994229/">LinkedIn</a>*
+
 
 </p>
 </p>
