@@ -11,7 +11,7 @@
 
 - I'm currently learning & aiming for a proficiency in <b>JavaScript , Go & Algorithmic problem-solving skills.</b>
 
--  Also , I write Dev-Blogs at : <a href="aryav.hashnode.dev">Dev X Aryav </a>
+
 
 <hr>
 
