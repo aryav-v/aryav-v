@@ -9,7 +9,7 @@
 
 - I'm a Developer 🚀 , who's making daily progress in Full-Stack development & actively looking forward to getting new opportunities.
 
-- I'm currently learning & aiming for a proficiency in <b>JavaScript , Go & Algorithmic problem-solving skills.</b>
+- I'm currently learning & aiming a proficiency in <b>JavaScript & Algorithmic problem-solving skills.</b>
 
 
 
